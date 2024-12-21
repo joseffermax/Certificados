@@ -51,7 +51,7 @@ _Capacitou-me a projetar e implementar redes eficientes e seguras._
 
 ---
 
-### Beginner: Google Cloud Cybersecurity Certificate 🛡️
+### Beginner: Google Cloud Cybersecurity Certificate - Google 🛡️
 **Duração:** 104,75 horas  
 Este curso oferece uma introdução à segurança cibernética no Google Cloud, cobrindo:
 - Fundamentos de segurança na nuvem  
