@@ -63,8 +63,6 @@ _Aprendi a proteger dados e aplicações na plataforma Google Cloud com boas pr�
 
 ### 📝 Notas 📝
 - Certificados estão disponíveis clicando nos botões "Visualizar".
-- As badges podem ser personalizadas para refletir cores ou estilos diferentes.
-
 
 <h2>✉️ Contato ✉️</h2>
 Se você tiver alguma dúvida ou quiser saber mais sobre mim, sinta-se à vontade para entrar em contato através do meu perfil no GitHub ou enviar uma mensagem para o seguinte e-mail: <strong>joseffermax1472@gmail.com</strong>.
