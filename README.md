@@ -61,6 +61,8 @@ Este curso oferece uma introdução à segurança cibernética no Google Cloud, 
 _Aprendi a proteger dados e aplicações na plataforma Google Cloud com boas práticas de segurança._  
 [![Certificado Curso](https://img.shields.io/badge/Certificado%20Curso-Visualizar-blue)](https://www.credly.com/badges/4189684b-b072-4f1a-9a1d-a1988e0a58b5)
 
+---
+
 ### HCIA-Datacom  - Huawei 🌐 
 
 Este curso aborda os fundamentos de redes de dados, incluindo:  
@@ -72,9 +74,43 @@ _Proporcionou conhecimento essencial para projetar, configurar e otimizar redes 
 
 [![](https://img.shields.io/badge/Certificado%20Oficial-Visualizar-blue)](https://academicoifpbedubr-my.sharepoint.com/:b:/g/personal/joseffer_maxwel_academico_ifpb_edu_br/ERGhS6Vf9ztJhQIPaGK8zbUBaysTuOL0g4MXwZs2dCvqDg?e=f2Bxo9)
 
+---
 
-### 📝 Notas 📝
-- Certificados estão disponíveis clicando nos botões "Visualizar".
+### HCIA-WLAN V3.0 - Huawei 📡
+**Duração:** 13,18 horas 
+Este curso oferece conhecimento sobre redes sem fio, abordando:
+- Arquitetura e padrões de WLAN  
+- Configuração e implementação de WLAN  
+- Gerenciamento de redes sem fio  
+
+Aprendi a configurar e gerenciar redes sem fio, garantindo a qualidade e segurança de conexões wireless em diversos ambientes. 
+[![Certificado Curso](https://img.shields.io/badge/Certificado%20Curso-Visualizar-blue)](https://academicoifpbedubr-my.sharepoint.com/:i:/g/personal/joseffer_maxwel_academico_ifpb_edu_br/EfB4Q1FJxk1BosVk4D99wzYB5Fvkqzgfu6ZUF0orZ1UiUA?e=mjVbCP)
+
+---
+
+### HCIA-Datacom V1.0 - Huawei 🌐
+**Duração:** 20 horas 
+Este curso oferece conhecimento sobre redes de dados, abordando:
+- Arquitetura de redes de dados 
+- Protocolos de comunicação  
+- Implementação e gerenciamento de redes de dados  
+
+Aprendi a projetar e gerenciar redes de comunicação de dados, focando em sua eficiência e segurança.
+
+[![Certificado Curso](https://img.shields.io/badge/Certificado%20Curso-Visualizar-blue)](https://academicoifpbedubr-my.sharepoint.com/:i:/g/personal/joseffer_maxwel_academico_ifpb_edu_br/EYInIhUeicRMq3EZ0kwvjcEB-mep685A_GdDH5VKmmuo1w?e=5CyOh4)
+
+---
+
+<h2>📝 Notas 📝</h2>
+
+- Certificados estão disponíveis clicando nos botões **"Visualizar"**.
+
+### Diferença entre "Certificado Curso" e "Certificado Oficial"
+
+- **Certificado Curso**: Este certificado é concedido após a conclusão de um curso, muitas vezes de forma gratuita ou em plataformas. Ele reconhece o aprendizado e a conclusão do curso, mas não tem a validade formal de um certificado oficial, que pode ser exigido em certas áreas ou profissões.
+
+- **Certificado Oficial**: Este é o certificado concedido por uma instituição reconhecida após o pagamento e a realização de um exame ou treinamento formal. O certificado oficial tem um valor maior no mercado de trabalho, pois valida oficialmente seus conhecimentos e seu compromisso com o curso.
+
 
 <h2>✉️ Contato ✉️</h2>
 Se você tiver alguma dúvida ou quiser saber mais sobre mim, sinta-se à vontade para entrar em contato através do meu perfil no GitHub ou enviar uma mensagem para o seguinte e-mail: <strong>joseffermax1472@gmail.com</strong>.
