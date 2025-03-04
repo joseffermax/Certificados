@@ -63,19 +63,6 @@ _Aprendi a proteger dados e aplicações na plataforma Google Cloud com boas pr�
 
 ---
 
-### HCIA-Datacom  - Huawei 🌐 
-
-Este curso aborda os fundamentos de redes de dados, incluindo:  
-- Princípios de comunicação em redes  
-- Tecnologias e protocolos de comutação e roteamento  
-- Implementação e gerenciamento de redes locais (LAN)  
-
-_Proporcionou conhecimento essencial para projetar, configurar e otimizar redes modernas, garantindo alto desempenho e confiabilidade._  
-
-[![](https://img.shields.io/badge/Certificado%20Oficial-Visualizar-blue)](https://academicoifpbedubr-my.sharepoint.com/:b:/g/personal/joseffer_maxwel_academico_ifpb_edu_br/ERGhS6Vf9ztJhQIPaGK8zbUBaysTuOL0g4MXwZs2dCvqDg?e=f2Bxo9)
-
----
-
 ### HCIA-WLAN V3.0 - Huawei 📡
 **Duração:** 13,18 horas 
 Este curso oferece conhecimento sobre redes sem fio, abordando:
@@ -84,6 +71,7 @@ Este curso oferece conhecimento sobre redes sem fio, abordando:
 - Gerenciamento de redes sem fio  
 
 Aprendi a configurar e gerenciar redes sem fio, garantindo a qualidade e segurança de conexões wireless em diversos ambientes. 
+
 [![Certificado Curso](https://img.shields.io/badge/Certificado%20Curso-Visualizar-blue)](https://academicoifpbedubr-my.sharepoint.com/:i:/g/personal/joseffer_maxwel_academico_ifpb_edu_br/EfB4Q1FJxk1BosVk4D99wzYB5Fvkqzgfu6ZUF0orZ1UiUA?e=mjVbCP)
 
 ---
@@ -97,7 +85,34 @@ Este curso oferece conhecimento sobre redes de dados, abordando:
 
 Aprendi a projetar e gerenciar redes de comunicação de dados, focando em sua eficiência e segurança.
 
+
 [![Certificado Curso](https://img.shields.io/badge/Certificado%20Curso-Visualizar-blue)](https://academicoifpbedubr-my.sharepoint.com/:i:/g/personal/joseffer_maxwel_academico_ifpb_edu_br/EYInIhUeicRMq3EZ0kwvjcEB-mep685A_GdDH5VKmmuo1w?e=5CyOh4)
+
+---
+
+### HCIA-Datacom  - Huawei 🌐 
+
+Este curso aborda os fundamentos de redes de dados, incluindo:  
+- Princípios de comunicação em redes  
+- Tecnologias e protocolos de comutação e roteamento  
+- Implementação e gerenciamento de redes locais (LAN)  
+
+_Proporcionou conhecimento essencial para projetar, configurar e otimizar redes modernas, garantindo alto desempenho e confiabilidade._  
+
+[![](https://img.shields.io/badge/Certificado%20Oficial-Visualizar-blue)](https://academicoifpbedubr-my.sharepoint.com/:b:/g/personal/joseffer_maxwel_academico_ifpb_edu_br/ERGhS6Vf9ztJhQIPaGK8zbUBaysTuOL0g4MXwZs2dCvqDg?e=f2Bxo9)
+
+---
+
+### HCIP-Security - Huawei 🌐
+
+Este curso avançado aborda tópicos essenciais de segurança de rede, incluindo:
+- Fundamentos de segurança cibernética e políticas de proteção
+- Implementação e gerenciamento de firewalls e VPNs
+- Prevenção de intrusões e gestão de vulnerabilidades 
+
+_Proporcionou conhecimento aprofundado para projetar, implementar e gerenciar soluções de segurança robustas, garantindo a proteção de redes e dados contra ameaças cibernéticas._
+
+[![](https://img.shields.io/badge/Certificado%20Oficial-Visualizar-blue)](https://academicoifpbedubr-my.sharepoint.com/:b:/g/personal/joseffer_maxwel_academico_ifpb_edu_br/EW8WIzbe6gVMjtHRu32xL5QBnrogvyUKnRV_b6zGtVBslg?e=ugGYuW)
 
 ---
 
