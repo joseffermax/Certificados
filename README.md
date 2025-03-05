@@ -64,7 +64,7 @@ _Aprendi a proteger dados e aplicações na plataforma Google Cloud com boas pr�
 ---
 
 ### HCIA-WLAN V3.0 - Huawei 📡
-**Duração:** 13,18 horas 
+**Duração:** 13,18 horas    
 Este curso oferece conhecimento sobre redes sem fio, abordando:
 - Arquitetura e padrões de WLAN  
 - Configuração e implementação de WLAN  
@@ -77,7 +77,7 @@ Aprendi a configurar e gerenciar redes sem fio, garantindo a qualidade e seguran
 ---
 
 ### HCIA-Datacom V1.0 - Huawei 🌐
-**Duração:** 20 horas 
+**Duração:** 20 horas      
 Este curso oferece conhecimento sobre redes de dados, abordando:
 - Arquitetura de redes de dados 
 - Protocolos de comunicação  
