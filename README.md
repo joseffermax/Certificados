@@ -130,7 +130,8 @@ Tópicos:
 
 ## 📬 Contato
 
-Se você tiver alguma dúvida ou quiser saber mais sobre mim, sinta-se à vontade para entrar em contato através do meu perfil no GitHub ou enviar uma mensagem para o seguinte e-mail: <strong>joseffermax1472@gmail.com</strong>.
+📧 Email: [joseffermax1472@gmail.com](mailto:joseffermax1472@gmail.com)  
+🔗 GitHub: [@joseffermax](https://github.com/joseffermax)
 
 ---
 
